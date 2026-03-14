@@ -16,7 +16,7 @@ const AboutCard = () => {
      <p className='text-gray-500 max-w-80 text-center mb-8'>Passionate About Quality, Dedicated to Your Vision</p>
 
      <div className='flex flex-col md:flex-row items-center md:items-start md:gap-20'>
-    <Image src={assets.aboutImg} alt="" className='w-full sm:w-2/3 max-w-lg rounded-full' ></Image>
+    <Image src={assets.aboutImg} priority alt="" className='w-full sm:w-2/3 max-w-lg rounded-full'></Image>
 
     <div className='flex flex-col items-center md:items-start text-gray-600 mt-10'>
 
