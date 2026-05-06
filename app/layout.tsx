@@ -25,6 +25,7 @@ export const metadata: Metadata = {
     "kitchen ventilation systems",
     "gas cooker installation",
     "industrial kitchen maintenance",
+    "equipment procurement for commercial kitchens",
   ],
 
   authors: [{ name: "Tobi.Dev for Sanity Prime Tech." }],

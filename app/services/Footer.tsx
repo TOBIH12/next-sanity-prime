@@ -33,7 +33,7 @@ const Footer = () => {
       {/* COPYRIGHT LISCENCE */}
       
       <div className='text-gray-500 py-2 border-t border-gray-700 text-center mt-10'>
-        Copyright 2026 &copy; Tobi.Dev All Rights Reserved. <br />
+         2026 <a href="https://www.linkedin.com/in/samuel-bolaji-84b472271" target="__blank" className='hover:text-white'>Tobi.Dev</a> <br />
       </div>
     </div>
   )

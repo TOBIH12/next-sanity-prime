@@ -9,7 +9,7 @@ const HeroSection = () => {
       </h1>
       <div className='space-x-6 mt-16 flex-column md:flex-row flex flex-col justify-center items-center gap-4'>
         <a href="#Projects" className='border border-white px-8 py-3 rounded'>Projects</a>
-        <a href="tel:+2347012715335" className='flex justify-between gap-2 bg-blue-500 px-8 py-3 rounded'>
+        <a href="tel:+2347036399534" className='flex justify-between gap-2 bg-blue-500 px-8 py-3 rounded'>
           <h1>Call Now</h1>
           <FaPhone className="mt-1"/>
         </a>
